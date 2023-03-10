@@ -1,20 +1,11 @@
-- title: dingwenzhang
-  name: Dingwen Zhang
-  subtitle: Northwestern Polytechnical University, Xi’an, China
-  img: zhang.jpg
-  thumbnail: zhang.jpg
+- title: jingkuansong
+  name: Jingkuan Song
+  subtitle: University of Electronic Science and Technology of China
+  img: song.jpg
+  thumbnail: song.jpg
   alt: Picture of TBD
   topic: Topic
-  description: Dingwen Zhang is a professor at School of Automation, Northwestern Polytechnical University. He received his B.E. and Ph.D. degrees from the Northwestern Polytechnical University, Xi’an, China, in 2012 and 2018, respectively. During 2015 to 2017, he worked as a visiting scholar at Robotics Institute, Carnegie Mellon University. His research interests include Computer Vision and Multimedia Processing, especially on saliency detection, semantic segmentation, and weakly supervised learning. He has published more than 30 peer-reviewed conference and journal papers, including CVPR, ICCV, IJCAI, AAAI, and IEEE T-PAMI, T-IP, T-NNLS, T-MM, IJCV. He served as a PC member of AAAI, NeurIPS, CVPR, ICCV, etc. He is also the leading guest editor of IEEE T-CSVT and IEEE T-MM. He is the recipient of the CSIG Outstanding Doctoral Dissertation Award and ACM China SIGAI Outstanding Doctor Award in 2019. He is also the recipient of the Clarivate Highly Cited Researcher in 2019, 2020, and 2021.
-
-- title: chaoweifang
-  name: Chaowei Fang
-  subtitle: Xidian University, Xi’an, China
-  img: fang.jpg
-  thumbnail: fang.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: Dr. Chaowei Fang is a lecturer at the School of Artificial Intelligence, Xidian University. His research interests include computer vision, image processing, and medical image analysis. He received the Ph.D. degree at the Department of Computer Science from The University of Hong Kong in 2019, and the B.S. degree at the Department of Automation from Xi’an Jiaotong University in 2013. He won the 1st place in Zero-shot Object Segmentation of ZhejiangLab Cup Global AI Competition 2020. He authorized/co-authorized a handful of papers in top-tier journals and conferences, such as T-PAMI, T-IP, T-MI, MIA, CVPR, ICCV, ACM MM, MICCAI. He served as the reviewer of TIP, TNNLS, TCSVT, TMM, MIA, CVPR 22, AAAI 21-22, ECCV 22, MICCAI 20-22, etc. 
+  description: Jingkuan Song is a full professor with University of Electronic Science and Technology of China (UESTC). His research interest includes large-scale multimedia retrieval, image/video segmentation and image/video understanding using hashing, graph learning and deep learning techniques. He joined Columbia University as a Postdoc Research Scientist (2016-2017), and University of Trento as a Research Fellow (2014-2016). He obtained his PhD degree in 2014 from The University of Queensland (UQ), Australia. He was the winner of the Best Paper Award in ICPR (2016, Mexico), Best Student Paper Award in Australian Database Conference (2017, Australia), and Best Paper Honorable Mention Award (2017, Japan). Jingkuan has served as the Demo Chair of ACM Multimedia Asia 2020, Workshop Chair of ApWeb 2019, and the Area Chairs of ACM MM 2018/2020, ICME 2020, etc. He severs as the Associate Editor for ACM Trans. on Multimedia Computing Communications and Applications. He is also the Guest Editor of IEEE TMM, ACM TDS, PR and he is PC member of CVPR’18-20, MM'18-20, IJCAI'18-20, etc.
 
 - title: wuliu
   name: Wu Liu
@@ -34,14 +25,23 @@
   topic: Topic
   description: Dr. Xinchen Liu is a Senior Researcher as JD AI Research. His research interests include human-centric computer vision and its application in retail. He received the Ph.D. degree in computer science from Beijing University of Posts and Telecommunications in 2018. He received IEEE Trans. on Multimedia 2019 Prize Paper Award, IEEE ICME 2016 Best Student Paper Award, and Outstanding Doctoral Dissertation Award of China Society of Image and Graphics in 2019. Dr. Liu has won 1st Place in AI+Person Re-identification Track of National AI Challenge 2020, 2nd Place in Multi-Person Human Parsing Track of CVPR 2019 Look-into-Person Challenge, and 2nd in Single-Person Human Parsing Track of CVPR 2018 Look-into-Person Challenge. He also served as a PC member of ACM Multimedia, AAAI, ICME, etc.
 
-- title: jingkuansong
-  name: Jingkuan Song
-  subtitle: University of Electronic Science and Technology of China
-  img: song.jpg
-  thumbnail: song.jpg
+- title: dingwenzhang
+  name: Dingwen Zhang
+  subtitle: Northwestern Polytechnical University, Xi’an, China
+  img: zhang.jpg
+  thumbnail: zhang.jpg
   alt: Picture of TBD
   topic: Topic
-  description: Jingkuan Song is a full professor with University of Electronic Science and Technology of China (UESTC). His research interest includes large-scale multimedia retrieval, image/video segmentation and image/video understanding using hashing, graph learning and deep learning techniques. He joined Columbia University as a Postdoc Research Scientist (2016-2017), and University of Trento as a Research Fellow (2014-2016). He obtained his PhD degree in 2014 from The University of Queensland (UQ), Australia. He was the winner of the Best Paper Award in ICPR (2016, Mexico), Best Student Paper Award in Australian Database Conference (2017, Australia), and Best Paper Honorable Mention Award (2017, Japan). Jingkuan has served as the Demo Chair of ACM Multimedia Asia 2020, Workshop Chair of ApWeb 2019, and the Area Chairs of ACM MM 2018/2020, ICME 2020, etc. He severs as the Associate Editor for ACM Trans. on Multimedia Computing Communications and Applications. He is also the Guest Editor of IEEE TMM, ACM TDS, PR and he is PC member of CVPR’18-20, MM'18-20, IJCAI'18-20, etc.
+  description: Dingwen Zhang is a professor at School of Automation, Northwestern Polytechnical University. He received his B.E. and Ph.D. degrees from the Northwestern Polytechnical University, Xi’an, China, in 2012 and 2018, respectively. During 2015 to 2017, he worked as a visiting scholar at Robotics Institute, Carnegie Mellon University. His research interests include Computer Vision and Multimedia Processing, especially on saliency detection, semantic segmentation, and weakly supervised learning. He has published more than 30 peer-reviewed conference and journal papers, including CVPR, ICCV, IJCAI, AAAI, and IEEE T-PAMI, T-IP, T-NNLS, T-MM, IJCV. He served as a PC member of AAAI, NeurIPS, CVPR, ICCV, etc. He is also the leading guest editor of IEEE T-CSVT and IEEE T-MM. He is the recipient of the CSIG Outstanding Doctoral Dissertation Award and ACM China SIGAI Outstanding Doctor Award in 2019. He is also the recipient of the Clarivate Highly Cited Researcher in 2019, 2020, and 2021.
+
+- title: chaoweifang
+  name: Chaowei Fang
+  subtitle: Xidian University, Xi’an, China
+  img: fang.jpg
+  thumbnail: fang.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: Dr. Chaowei Fang is a lecturer at the School of Artificial Intelligence, Xidian University. His research interests include computer vision, image processing, and medical image analysis. He received the Ph.D. degree at the Department of Computer Science from The University of Hong Kong in 2019, and the B.S. degree at the Department of Automation from Xi’an Jiaotong University in 2013. He won the 1st place in Zero-shot Object Segmentation of ZhejiangLab Cup Global AI Competition 2020. He authorized/co-authorized a handful of papers in top-tier journals and conferences, such as T-PAMI, T-IP, T-MI, MIA, CVPR, ICCV, ACM MM, MICCAI. He served as the reviewer of TIP, TNNLS, TCSVT, TMM, MIA, CVPR 22, AAAI 21-22, ECCV 22, MICCAI 20-22, etc. 
 
 - title: hongyuanzhu
   name: Hongyuan Zhu
@@ -60,8 +60,6 @@
   alt: Picture of TBD
   topic: Topic
   description: Wenbing Huang is now an assistant researcher at Tsinghua University, awarded as the Shuimu Tsinghua Scholar in 2019 and Tencent Rhino-Bird Visiting Scholar in 2020. Before this, he was a senior researcher at Tencent AI Lab during 2017 and 2019. He received the Ph.D. degree of computer science and technology from Tsinghua University in 2017 and the bachelor’s degree of mathematics from Beihang University in 2012. His current research mainly lies in the areas of machine learning computer vision, and robotics, with particular focus on learning on irregular structures including graphs and videos. He has published about 30 peer-reviewed top-tier conference and journal papers, including the Proceedings of NeurIPS, ICLR, ICML, CVPR, etc.  He has won the Champion of Autonomous Grasp Challenges in IROS 2016. He served as a session chair of “Video":" Events, Activities and Surveillance” in IJCAI 2019, the pc member of IJCAI 2019-2020, AAAI 2019-2020, and the reviewer of TPAMI, IJCV, TIP, Neurocomputing, NeurIPS 2019, CVPR 2019-2020, ICML 2019-2020, ICCV 2019, ECCV 2020, AISTATS 2019-2020, ACMMM 2019. He was selected in the list of Top Reviewers in NeurIPS 2019. 
-
-
 
 - title: johnsmith
   name: John Smith
