@@ -1,0 +1,32 @@
+<section id="programs" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Programs</h2>
+                <h3 class="section-subheading" >14 Oct 2022 (all times are given in Beijing Time UTC+8)</h3>
+                <h3 class="section-subheading" >Onsite Room: Pav4 R1.06, Lisbon Congress Center (CCL), Lisbon, Portugal</h3>
+                <!--<h3 class="section-subheading" >Online VooV Meeting Room ID: 289 575 091.</h3>-->
+            </div>
+        </div>
+        <form id="searchForm" class="col-md-12 form-horizontal" role="form">
+            {% for post in site.data.twenty_22.programs %}
+                <div class="row">
+                    <div class="col-md-2">
+                        <p valign="top">{{ post.time}}</p>
+                    </div>
+                    <div class="col-md-8" style="vertical-align: text-top; margin-bottom:-3px">
+                        <p>{{ post.title | replace: ":", ": "}} 
+                            {% if post.link != "none"%}
+                            [<a href='{{ post.link}}'>Video Link</a>]
+                            {% endif %} 
+                        </p>
+                    </div>
+                    <div class="col-md-2">
+                        <p valign="top">{{post.people}}</p>
+                    </div>
+                </div>
+                <hr />
+            {% endfor %}
+        </form>
+    </div>
+</section>

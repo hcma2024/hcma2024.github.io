@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <style type="text/css">
+        /*INCLUDE MAIN CSS FILE*/
+        {% capture criticalcss %}
+          {% include /2022_css/critical.scss %}
+        {% endcapture %}
+        {{ criticalcss | scssify }}
+    </style>
+    {% include 2022_data/js.html %}
+    {% include 2022_data/head.html %}
+    <body id="page-top" class="index">
+
+        {% include 2022_data/header-home.html %}
+
+        <!-- Header -->
+        <header>
+            <div class="container">
+                <div class="intro-text">
+                    <div class="intro-heading" style="text-transform: capitalize;">The 4th International Workshop on Human-centric Multimedia Analysis<br></div>
+                    <div class="intro-lead-in">29 October - 2 November 2023</div>
+                    <div class="intro-lead-in">Ottawa, Canada</div>
+                    <a href="https://www.acmmm2023.org//" class="page-scroll btn btn-xl">View on ACM MM 2023</a>
+                </div>
+            </div>
+        </header>
+        {% include 2022_data/news.html %}
+        {% include 2022_data/intro.html %}
+        {% include 2022_data/organizers.html %}
+        <!-- {% include 2022_data/speakers.html %} -->
+    </body>
+    {% include 2022_data/footer.html %}
+</html>

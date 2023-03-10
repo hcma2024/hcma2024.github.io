@@ -1,0 +1,22 @@
+<!-- Services Section -->
+<section id="publications" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Publications</h2>
+<!--                 <h3 class="section-subheading text-muted">TBD</h3> -->
+            </div>
+        </div>
+        <form id="searchForm" class="col-md-12 form-horizontal" role="form">
+            {% for post in site.data.twenty_22.publications %}
+                <div class="row">
+                    <p><strong>Title: </strong>{{ post.title }}</p> 
+                </div>
+                <div class="row">
+                    <p><strong>Authors: </strong>{{ post.authors }}</p>
+                    <hr />
+                </div>
+            {% endfor %}
+        </form>
+    </div>
+</section>

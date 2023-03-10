@@ -1,0 +1,99 @@
+- title: Workshop Opening
+  time: 16:00-16:10
+  people:
+  link: none
+
+- title: Keynote & Invited Talks
+  time: 
+  people:
+  link: none
+
+- title: Bridging Isolated Islands in Human Activity Understanding
+  time: 16:10-16:50
+  people: Cewu Lu, Shanghai Jiao Tong University, China
+  link: none
+
+- title: Learning to Anticipate Human Actions from Videos
+  time: 16:50-17:30
+  people: Basura Fernando, Institute of High Performance Computing (IHPC) and Centre for Frontier AI Research (CFAR) of Agency for Science, Technology and Research (A*STAR), Singapore
+  link: none
+
+- title: Neural Digital Human Avatar:Motion Capture, Reconstruction and Rendering
+  time: 17:30-18:10
+  people: Yebin Liu, Tsinghua University, China
+  link: none
+
+- title: Tea Break
+  time: 18:10-18:20
+  people: 
+  link: none
+  
+- title: Session 1:Oral Presentation
+  time: 
+  people: 
+  link: none
+  
+- title: Anonym-Recognizer:Relationship-preserving Face Anonymization and Recognition
+  time: 18:20-18:40
+  people: Chunlei Peng, Shuang Wan, Zimin Miao, Decheng Liu, Yu Zheng, Nannan Wang
+  link: none
+
+- title: Cycle-Consistent Learning for Weakly Supervised Semantic Segmentation
+  time: 18:40-19:00
+  people: Bin Wang, Yu Qiao, Dahua Lin, Stephen D.H Yang, Weijia Li
+  link: none
+  
+- title: Dual Domain-Adversarial Learning for Audio-Visual Saliency Prediction
+  time: 19:00-19:20
+  people: Yingzi Fan, Longfei Han, Yue Zhang, Lechao Cheng, Chen Xia, Di Hu
+  link: none
+
+- title: Multi-level Multi-modal Feature Fusion for Action Recognition in Videos
+  time: 19:20-19:40
+  people: Xinghang Hu, Yanli Ji, Gedamu Alemu Kumie
+  link: none
+
+- title: Two-branch Objectness-centric Open World Detection
+  time: 19:40-20:00
+  people: Yan Wu, Xiaowei Zhao, Yuqing Ma, Duorui Wang, Xianglong Liu
+  link: none
+
+- title: Session 2:Poster
+  time: 18:20-20:00
+  people: 
+  link: none
+
+- title: Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation
+  time: 
+  people: Shuning Chang, Pichao Wang, Fan Wang, Hao Li, Mike Zheng Shou
+  link: none
+
+- title: Domain Camera Adaptation and Collaborative Multiple Feature Clustering for Unsupervised Person Re-ID
+  time: 
+  people: Yuanpeng Tu
+  link: none
+
+- title: PSINet:Progressive Saliency Iteration Network for RGB-D Salient Object Detection
+  time: 
+  people: Songsong Duan, Chengxing Xia, Xianjin Fang, Bin Ge, Xiuju Gao, Kuan-Ching Li
+  link: none
+
+- title: Multimodal Network with Cross-Modal Attention for Audio-Visual Event Localization
+  time: 
+  people: Qianchao Tan
+  link: none
+
+- title: Real-time Embedded Demo System for Fall Detection under 15W Power
+  time: 
+  people: Junyi Lu, Wenxiang Jiang, Yang Xiao, Tingbing Yan, Zhiguo Cao, Zhiwen Fang, Joey Tianyi Zhou
+  link: none
+
+- title: Face Clustering via Adaptive Aggregation of Clean Neighbors
+  time: 
+  people: Shiyong Hong, Yaobin Zhang, Xu Ling, Weihong Deng, Yin Yunfeng, Zhang Yingjie, Hongzhi Shi, Dongchao Wen
+  link: none
+
+- title: Cross-modal Token Selection for Video Understanding
+  time: 
+  people: Liyong Pan, Zechao Li, Rui Yan, Henghao Zhao
+  link: none

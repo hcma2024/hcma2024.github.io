@@ -1,0 +1,35 @@
+title: The 4th International Workshop on Human-centric Multimedia Analysis
+description: > # this means to ignore newlines until "baseurl:"
+  Your description
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "hcma2022.github.io" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+
+#facebook:
+#  app_id: 
+
+# logo: "./css/2021_style/img/icon-large.png"
+
+#social: 
+#  name: Your Facebook Page
+#  link: "https://www.facebook.com/"
+
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: ['_2022_pages']
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com
+  - title: twitter
+    url: https://twitter.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
