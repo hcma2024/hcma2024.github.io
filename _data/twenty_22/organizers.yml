@@ -54,7 +54,7 @@
 
 - title: wenbinghuang
   name: Wenbing Huang
-  subtitle: Tsinghua University
+  subtitle: Gaoling School of Artificial Intelligence, Renmin University of China
   img: huang.jpg
   thumbnail: huang.jpg
   alt: Picture of TBD
@@ -69,4 +69,14 @@
   alt: Picture of TBD
   topic: Topic
   description: Dr. John R. Smith is IEEE Fellow, IBM Fellow and manager of AI Tech for IBM Research AI at IBM T. J. Watson Research Center. He currently leads research and development on vision, speech, language, knowledge, and interaction in Yorktown Heights, NY USA. Previously he led IBM’s R&D on Computer Vision and Multimedia. Recent work includes":" Visual Recognition for IBM Watson Developer Cloud; Medical Image Analysis for Skin Cancer; Augmenting Creativity for Movie Trailers; Visual Comprehension of Dynamic Scenes in Video; Multi-modal Analysis for Sports Highlights Detection; Earlier, Dr. Smith was Distinguished Research Staff Member and Senior Manager of Intelligent Information Systems. He led the development of IBM Multimedia Analysis and Retrieval System (IMARS). Dr. Smith was a founding participant and served on the Advisory Committee for the NIST TRECVID Video Retrieval Evaluation.  He led IBM's participation in TRECVID evaluations for more than a decade. Dr. Smith was co-General Chair of ACM Intl. Conf. on Multimedia Retrieval (ICMR-2016) in New York City. Previously, he was Editor-in-Chief of IEEE Multimedia from 2010 – 2014, Associate Editor-in-Chief from 2006 – 2010 and Standards Editor from 2003 – 2006. Earlier Dr. Smith led IBM's participation in MPEG-7 / MPEG-21 standards and was Chair of the MPEG Multimedia Description Schemes Sub-Group and co-project Editor of MPEG-7 Standard.
+
+
+- title: Xin Wang
+  name: Xin Wang
+  subtitle: Department of Computer Science and Technology,Tsinghua University
+  img: wangxin.jpg
+  thumbnail: wangxin.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: TDB.
 
