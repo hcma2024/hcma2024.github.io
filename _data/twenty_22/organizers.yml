@@ -43,15 +43,6 @@
   topic: Topic
   description: Dingwen Zhang is a professor at School of Automation, Northwestern Polytechnical University. He received his B.E. and Ph.D. degrees from the Northwestern Polytechnical University, Xi’an, China, in 2012 and 2018, respectively. During 2015 to 2017, he worked as a visiting scholar at Robotics Institute, Carnegie Mellon University. His research interests include Computer Vision and Multimedia Processing, especially on saliency detection, semantic segmentation, and weakly supervised learning. He has published more than 30 peer-reviewed conference and journal papers, including CVPR, ICCV, IJCAI, AAAI, and IEEE T-PAMI, T-IP, T-NNLS, T-MM, IJCV. He served as a PC member of AAAI, NeurIPS, CVPR, ICCV, etc. He is also the leading guest editor of IEEE T-CSVT and IEEE T-MM. He is the recipient of the CSIG Outstanding Doctoral Dissertation Award and ACM China SIGAI Outstanding Doctor Award in 2019. He is also the recipient of the Clarivate Highly Cited Researcher in 2019, 2020, and 2021.
 
-- title: chaoweifang
-  name: Chaowei Fang
-  subtitle: Xidian University, Xi’an, China
-  img: fang.jpg
-  thumbnail: fang.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: Dr. Chaowei Fang is a lecturer at the School of Artificial Intelligence, Xidian University. His research interests include computer vision, image processing, and medical image analysis. He received the Ph.D. degree at the Department of Computer Science from The University of Hong Kong in 2019, and the B.S. degree at the Department of Automation from Xi’an Jiaotong University in 2013. He won the 1st place in Zero-shot Object Segmentation of ZhejiangLab Cup Global AI Competition 2020. He authorized/co-authorized a handful of papers in top-tier journals and conferences, such as T-PAMI, T-IP, T-MI, MIA, CVPR, ICCV, ACM MM, MICCAI. He served as the reviewer of TIP, TNNLS, TCSVT, TMM, MIA, CVPR 22, AAAI 21-22, ECCV 22, MICCAI 20-22, etc. 
-
 - title: wenbinghuang
   name: Wenbing Huang
   subtitle: Gaoling School of Artificial Intelligence, Renmin University of China
