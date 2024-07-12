@@ -25,6 +25,15 @@
   topic: Topic
   description: Wu Liu is currently a professor of a University of Science and Technology of China, earlier he was a Senior Researcher in JD AI Research, China. His current research interests include human behavior analysis and intelligent video surveillance. He received his Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Science in 2015. He has published more than 60 papers in prestigious conferences and journals in computer vision and multimedia. He received IEEE Trans. On Multimedia 2019 Prize Paper Award, IEEE MultiMedia 2018 Best Paper Award, IEEE ICME 2016 Best Student Paper Award, and Chinese Academy of Sciences Outstanding Ph.D. Thesis Award in 2016, etc. He also won the 1st Place in the single and multi-person pose estimation tasks in CVPR 2018 Look into Person Challenge. Dr. Liu is the founding committee member of ACM FCA, and the committee member of IEEE CASS-MSA. He has also served as the Technical Program Chair of ACM MM Asia 2021, Web Chair of ICME 2019, Publicity Chair of BIGMM 2018, and the Area Chairs of ACM MM 2019&2020, ICME 2019, ICIP 2017, etc. Wu Liu also organized the workshop “Human-centric Multimedia Analysis” in ACM MM 2020, the workshop “Human and Vehicle Analysis for Intelligent Urban Computing” in IEEE ICPR 2020, the tutorials “Human Behavior Understanding":" From Human-Oriented Analysis to Action Recognition” in IEEE ICME 2019, the tutorials “Human-centric Visual Understanding” in ACM MM Asia 2019.
 
+- title: xinchenliu
+  name: Xinchen Liu
+  subtitle: JD AI Research, Beijing, China
+  img: xinchenliu.jpg
+  thumbnail: xinchenliu.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: Dr. Xinchen Liu is a Senior Researcher as JD AI Research. His research interests include human-centric computer vision and its application in retail. He received the Ph.D. degree in computer science from Beijing University of Posts and Telecommunications in 2018. He received IEEE Trans. on Multimedia 2019 Prize Paper Award, IEEE ICME 2016 Best Student Paper Award, and Outstanding Doctoral Dissertation Award of China Society of Image and Graphics in 2019. Dr. Liu has won 1st Place in AI+Person Re-identification Track of National AI Challenge 2020, 2nd Place in Multi-Person Human Parsing Track of CVPR 2019 Look-into-Person Challenge, and 2nd in Single-Person Human Parsing Track of CVPR 2018 Look-into-Person Challenge. He also served as a PC member of ACM Multimedia, AAAI, ICME, etc.
+
 - title: dingwenzhang
   name: Dingwen Zhang
   subtitle: Northwestern Polytechnical University, Xi’an, China
@@ -33,6 +42,15 @@
   alt: Picture of TBD
   topic: Topic
   description: Dingwen Zhang is a professor at School of Automation, Northwestern Polytechnical University. He received his B.E. and Ph.D. degrees from the Northwestern Polytechnical University, Xi’an, China, in 2012 and 2018, respectively. During 2015 to 2017, he worked as a visiting scholar at Robotics Institute, Carnegie Mellon University. His research interests include Computer Vision and Multimedia Processing, especially on saliency detection, semantic segmentation, and weakly supervised learning. He has published more than 30 peer-reviewed conference and journal papers, including CVPR, ICCV, IJCAI, AAAI, and IEEE T-PAMI, T-IP, T-NNLS, T-MM, IJCV. He served as a PC member of AAAI, NeurIPS, CVPR, ICCV, etc. He is also the leading guest editor of IEEE T-CSVT and IEEE T-MM. He is the recipient of the CSIG Outstanding Doctoral Dissertation Award and ACM China SIGAI Outstanding Doctor Award in 2019. He is also the recipient of the Clarivate Highly Cited Researcher in 2019, 2020, and 2021.
+
+- title: chaoweifang
+  name: Chaowei Fang
+  subtitle: Xidian University, Xi’an, China
+  img: fang.jpg
+  thumbnail: fang.jpg
+  alt: Picture of TBD
+  topic: Topic
+  description: Dr. Chaowei Fang is a lecturer at the School of Artificial Intelligence, Xidian University. His research interests include computer vision, image processing, and medical image analysis. He received the Ph.D. degree at the Department of Computer Science from The University of Hong Kong in 2019, and the B.S. degree at the Department of Automation from Xi’an Jiaotong University in 2013. He won the 1st place in Zero-shot Object Segmentation of ZhejiangLab Cup Global AI Competition 2020. He authorized/co-authorized a handful of papers in top-tier journals and conferences, such as T-PAMI, T-IP, T-MI, MIA, CVPR, ICCV, ACM MM, MICCAI. He served as the reviewer of TIP, TNNLS, TCSVT, TMM, MIA, CVPR 22, AAAI 21-22, ECCV 22, MICCAI 20-22, etc. 
 
 - title: wenbinghuang
   name: Wenbing Huang
